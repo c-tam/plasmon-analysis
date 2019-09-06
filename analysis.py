@@ -18,7 +18,7 @@ plt.rc("font", family="serif")
 plt.rcParams.update({"font.size": 16})
 
 # parameters
-prism_no = 21 # .1 is annealed
+prism_no = 21
 t_prism = 29 #degrees
 d_sens = 7.1e-2 #metres
 
