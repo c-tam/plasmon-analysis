@@ -29,11 +29,11 @@ delta_3 = 0 # offset from max reflectance for asymmetric
 details = True #show extra details on plot
 export = False # export data
 
-s_filename = "redux/21/s1.csv"
-p_filename = "redux/21/p1.csv"
-bg_filename = "redux/18/b1.csv"
-plotname = "output/prism26a.pdf"
-txtname = "output/prism26a.csv"
+s_filename = "s1.csv"
+p_filename = "p1.csv"
+bg_filename = "b1.csv"
+plotname = "output/plot.pdf"
+txtname = "output/text.csv"
 
 n_prism = 1.7988 # for SF6 at 632.8 nm
 prism_diam = 4.775 # mm
