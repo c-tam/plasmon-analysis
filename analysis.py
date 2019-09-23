@@ -29,9 +29,9 @@ delta_3 = 0 # offset from max reflectance for asymmetric
 details = True #show extra details on plot
 export = False # export data
 
-s_filename = "s1.csv"
-p_filename = "p1.csv"
-bg_filename = "b1.csv"
+s_filename = "data/s1.csv"
+p_filename = "data/p1.csv"
+bg_filename = "data/b1.csv"
 plotname = "output/plot.pdf"
 txtname = "output/text.csv"
 
